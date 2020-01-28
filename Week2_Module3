@@ -2,19 +2,14 @@ Module 2 - News Algorithm guest speaker Carl-Gustav Lindén, Media Journalism Re
 こんにちは、MOOC第2週に戻ってきました。今日はカール・グスタフ・リンデンさんをお迎えすることができてとてもうれしいです。
 カール・グスタフ氏はヘルシンキ大のメディア・ジャーナリズム研究者であり、ストックホルムのセーデルトーン大の講師でもあります。
 ヘルシンキ大学でイマーシブ・オートメーション (Immersive Automation) と呼ばれるプロジェクトを率いてきました。これはニュースコンテンツの自動生成を利用するものです。
+カール・グスタフさん、今日はSkype（での講義に）ご一緒できてうれしいです。時間を割いて知識を共有していただけることに感謝します。
+初めに、あなたが取り組んでいるニュースの自動化に関するイマーシブ・オートメーションについて教えていただけますか？
+それはどのようなもので、どんな成果があったのでしょう。
 
-Carl-Gustav, hello, it's great to have you with us via Skype today. Thanks so much for sharing your time
-and knowledge with the MOOC. So, first off I wanted to kind of ask if you could fill us in a little bit more
-on this Immersive Automation project on news automation that you've been working on. What is that all
-about? and what did you sort of accomplish in that project?
+もちろん。私はニュースの自動化の研究をしています。またの名をロボット・ジャーナリズムといいます。私はこの言葉や比喩を好きではありませんが、その理由は後でお話ししましょう。
+数年前に研究を始めてから大きな可能性を感じ、メディア、テック企業、ヘルシンキ大の研究者でグループを立ち上げました。
+イマーシブ・オートメーションという名のプロジェクトを立ち上げ、資金を調達して17か月間活動しました。研究の観点からすれば非常に短期間でしたが、その間に多くのことを成し遂げました。
 
-Yeah great. Yes, This is my favorite topics. I started researching news automation, some call it robot
-journalism. Meanwhile, I will tell you why I don't like the word or metaphor robo-journalism, but we
-started starting to do work on news automation a few years ago and then realizing that this is something
-really exciting and we put together a group of media companies, tech companies, and researchers from the
-University of Helsinki to create a project named immersive automation and got funded for that to work
-for 17 months, which in research terms is quite speedy sort of timescale, but we actually get a lot done in
-a very few few months.
 
 What we did was that we started with creating a prototype or writing news from the local elections in
 Finland in 2017. Election books and that's was really excellent in three languages. One of the aims of the
