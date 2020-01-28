@@ -9,7 +9,8 @@ Module 2 - News Algorithm guest speaker Carl-Gustav Lindén, Media Journalism Re
 もちろん。私はニュースの自動化の研究をしています。またの名をロボット・ジャーナリズムといいます。私はこの言葉や比喩を好きではありませんが、その理由は後でお話ししましょう。
 数年前に研究を始めてから大きな可能性を感じ、メディア、テック企業、ヘルシンキ大の研究者でグループを立ち上げました。
 イマーシブ・オートメーションという名のプロジェクトを立ち上げ、資金を調達して17か月間活動しました。研究の観点からすれば非常に短期間でしたが、その間に多くのことを成し遂げました。
-
+2017年のフィンランド地方選から始めることにしました。選挙に関する本は３か国語で書かれており、使い勝手がいいものでした。
+プロジェクトの目的の一つに、多言語アプリを作成することがありましたので、フィンランド語、スウェーデン語、英語に対応するものにしました。フィンランド語はスウェーデン語やフィンランド語（英語の誤記）かと
 
 What we did was that we started with creating a prototype or writing news from the local elections in
 Finland in 2017. Election books and that's was really excellent in three languages. One of the aims of the
