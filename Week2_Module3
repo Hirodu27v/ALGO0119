@@ -11,29 +11,16 @@ Module 2 - News Algorithm guest speaker Carl-Gustav Lindén, Media Journalism Re
 イマーシブ・オートメーションという名のプロジェクトを立ち上げ、資金を調達して17か月間活動しました。研究の観点からすれば非常に短期間でしたが、その間に多くのことを成し遂げました。
 2017年のフィンランド地方選から始めることにしました。選挙に関する本は３か国語で書かれており、使い勝手がいいものでした。
 プロジェクトの目的の一つに、多言語アプリを作成することがありましたので、フィンランド語、スウェーデン語、英語に対応するものにしました。フィンランド語はスウェーデン語やフィンランド語（英語の誤記）かと
+コンピューター科学ではほとんど使われず、サポートもされていない言語のためのシステムをどう開発するかが大きな課題でした。
+私たちはいくつかのアップデートを経て、ボットとジャーナリストが書いたテキストを読者に読んでもらって、その違いを確認しました。
+そして、再び資金を得て新製品を開発しています。これはEUのプロジェクトでEmbedIAといいます。
+先週私たちはスロベニアのリュブリャナでキックオフミーティングを行い、50人が参加しました。これは非常に大きなプロジェクトです。
+私は開発期間中、世界中のニュース自動化のサービス事業者やニュース自動化に携わるジャーナリスト、研究者と会ってきました。
+彼らは何が行われているのかよく理解していたように思います。彼らはイマーシブ・オートメーションとモジュール化の一種である私たちのボットを撮影しました。
+これはジャーナリストが書いたようなテンプレートやテキストを集めたようなものです。ちゃんとしたテンプレートで、数字を埋めるための長いテキストからなっています。
+私たちのシステムは文章をまとめ、どんなテキストが理想的かを自律的に決定します。いくつか基本的なルールがありますが、裏返せば自分で判断できる余地がそれだけ大きいシステムだといえます。
+ニュースの自動化に関して私が目にするものはすべてテンプレートベース、テキストベースなので、これはいわば「ビデオをスキップする」ようなものだと思います。
 
-What we did was that we started with creating a prototype or writing news from the local elections in
-Finland in 2017. Election books and that's was really excellent in three languages. One of the aims of the
-project was to create multi-language applications so we had this in Finnish, Swedish and English.
-And Finnish is in no way related to either Swedish or Finnish so that was the big issue, how to sort of
-develop a really system for languages which is rarely used and has no sort of support in computer science.
-So, we did that and the books worked very well.
-We did a news, some updates and we also tested the sort of texts written by the bots on our real audiences
-and I had them read text by journalists and text written by their bots to see sort of the differences. And,
-then we actually get funded again for a new products that is now continuing as a EU project called
-EmbedIA.
-Last week we had a kickoff meeting in Ljubljana in Slovenia, 50 people in the room so that is a much
-much bigger project. So yes, and during the product I sort of travelled the world to meet everybody sort of
-in the business of news automation, meeting service providers, journalists who work with news
-automation, researchers and so forth.
-So I think they have a pretty good picture of what's being done, and I think they both shot this immersive
-automation and our bot, it is sort of the modularity, I mean we have sort of put together when you usually
-have these templates or texts are written by journalists, but a nicely written template, a long text they used
-to fill in in the numbers.
-Our system puts together sentences and is quite autonomously deciding what text should be like. You
-have some some basic rule, but otherwise, I mean, it is really a system which is more free to sort of decide
-by itself, and I think that this is something which is [skip in video] because everything I see about news
-automation is template based, text based.
 I was very happy last year when I heard that a German company had produced 8000 templates, and I
 thought well now it's happening finally. So, I called them and nobody had repeated every one of these
 eight thousand templates by hand. It was a huge job. So we are far away from real automation, this is sort
