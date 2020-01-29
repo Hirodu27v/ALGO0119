@@ -20,18 +20,17 @@ Module 2 - News Algorithm guest speaker Carl-Gustav Lindén, Media Journalism Re
 これはジャーナリストが書いたようなテンプレートやテキストを集めたようなものです。ちゃんとしたテンプレートで、数字を埋めるための長いテキストからなっています。
 私たちのシステムは文章をまとめ、どんなテキストが理想的かを自律的に決定します。いくつか基本的なルールがありますが、裏返せば自分で判断できる余地がそれだけ大きいシステムだといえます。
 ニュースの自動化に関して私が目にするものはすべてテンプレートベース、テキストベースなので、これはいわば「ビデオをスキップする」ようなものだと思います。
+昨年、ドイツの企業が8000種類ものテンプレートを作ったと聞いて喜び勇んで電話をしました。しかし、手作業で8000種類のテンプレートを何度も使おうとする人はいないのでした。
+これはかなりの手間です。真の自動化には程遠く、こうした手仕事はこれまでジャーナリストがやってきたことと違いはありません。
+こうしたシステムはほとんど知性がないといっていいでしょう。
 
-I was very happy last year when I heard that a German company had produced 8000 templates, and I
-thought well now it's happening finally. So, I called them and nobody had repeated every one of these
-eight thousand templates by hand. It was a huge job. So we are far away from real automation, this is sort
-of very much handicraft, I mean, this is done by journalists. It's ,very little intelligence involved in the
-system.
 So, you mentioned that you did some evaluation in the context of your project. I mean what were you
 testing? and what did you find in those evaluations?
 One sort of key issue was is if there's a text written about something happening close to you, your party,
 your [video skips] than people are much more accepting the sort of data, the text might not be as up as
 good as they've ever written by a journalist, and the differences is much smaller than what you would
 think.
+
 And sort of the people trust text written by these systems almost as much as journalists, so this is not the
 problem either, but the one thing with the credibility of automated texts is that it's culturally contested.
 I mean, if you do this and say [video skips] you get totally different results than for instance in Germany
