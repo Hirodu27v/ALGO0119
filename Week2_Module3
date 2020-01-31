@@ -24,27 +24,18 @@ Module 2 - News Algorithm guest speaker Carl-Gustav Lindén, Media Journalism Re
 これはかなりの手間です。真の自動化には程遠く、こうした手仕事はこれまでジャーナリストがやってきたことと違いはありません。
 こうしたシステムはほとんど知性がないといっていいでしょう。
 
-So, you mentioned that you did some evaluation in the context of your project. I mean what were you
-testing? and what did you find in those evaluations?
-One sort of key issue was is if there's a text written about something happening close to you, your party,
-your [video skips] than people are much more accepting the sort of data, the text might not be as up as
-good as they've ever written by a journalist, and the differences is much smaller than what you would
-think.
+プロジェクトのコンテクストで評価を行ったということですね。何をテストして、その評価から何が分かりましたか？
 
-And sort of the people trust text written by these systems almost as much as journalists, so this is not the
-problem either, but the one thing with the credibility of automated texts is that it's culturally contested.
-I mean, if you do this and say [video skips] you get totally different results than for instance in Germany
-or in France or in the UK. So you have something called the Hollywood robot syndrome which means
-that how do you feel about robots or is it a picture you get from about robots from say Hollywood films,
-quite much decide what you would think about something like this, so these are things you need to think
-about.
-Yeah so, given your experience kind of working on, and building, and studying these these systems, what
-do you sort of see as the main benefits of using automated content in newsrooms?
-Of course, these texts have been done by journalists as a routine, news, texts, small pieces of news, which
-takes a incredible lot of time to write and with little influence on the audience. I think today's journalism
-needs more elaborate journalism, more quality, more investigative journalism, this is what people are
-prepared to pay for. I don't think people are prepared to pay for these pieces of sort of you know "who
-won a game last night" type of stuff.
+大切なことは、人々がその種のデータを受け入れていることよりも、身近で起こっていること、あなたの支持政党、あなたの「ビデオのスキップ」について書かれている文章は、たとえジャーナリストの文章のようによくできたものではくても、（二つの文章の）違いはずっと小さいかもしれないということです。違いは
+このようなシステムで書かれた文章をジャーナリストの文章と同じくらい信頼している人もいます。自動化されたテキストに信頼性があるとすれば、それは文化的な争いです。
+あなたが「ビデオをスキップ」と言っても、ドイツなのか、フランスなのか、イギリスなのかで全く違う結果になります。
+ハリウッド・ロボット症候群といったものがありますが、これはロボットについてどう思うか、またはどんな見た目かについてハリウッド映画に出てくるロボットが（あなたのイメージを）決めるというものです。
+あなたの思考をかなり左右するので、こうしたことを考えなくてはいけません。
+
+こうしたシステムを構築し、研究してきたあなたの経験から、編集局で自動化されたコンテンツを使うことの利点は何だと思いますか？
+ニュース、テキスト、短信の中には、ルーチンとして書かれているものがあります。こうしたものは書くのに相当時間がかかる割に、ほとんど読者に影響を及ぼすことはありません。
+今日、もっと手の込んだジャーナリズム、より質の高い、調査報道が必要だと思います。人々はそれにお金を払うでしょうが、これまでのような「彼は昨夜試合に勝った」といったものは必要としていません。
+
 So I think journalists need to move up the scale, up the sort of ladder up the quality scale anyway and this
 is just one way of sort of making sure that there's still all this small pieces of news which are important
 for somebody, but which takes a lot of time to do that somewhere they are produced.
