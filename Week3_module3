@@ -1,22 +1,17 @@
 ALGO 119
 こんにちは！この週のゲストにお迎えした、タマル・カーニーさんは全米公共ラジオ (NPR) のパーソナライゼーションおよびキュレーション部門のマネージングディレクターです。
+今週はアルゴリズムによるキュレーションの話を取り上げましたが、タマルさんにはその実務経験があります。
+タマルさん、ようこそ。このMOOCで知識を共有していただきありがとうございます。
 
-This week we're talking about algorithmic curation and Tomar has some experience working with that in
-a news environment in particular in the context of the NPR One app which ties together some algorithmic
-recommendation techniques with some very careful editorial thinking. So Tamar, hello and welcome.
-Thrilled to have you with us today. Thank you for taking the time to share your knowledge with this
-MOOC.
-My pleasure.
-So, maybe you could kind of kick things off a little bit for us by giving us an idea of exactly what it is you
-do in your role as director for personalization and curation. It strikes me as kind of a new role certainly in
-a new job title, one that I haven't come across before. What does that entail?
-Great. Well in some ways we made up the top title quite frankly. I think that from a very high level, I am
-not the journalist in the room when we're thinking about the algorithms and the technology that's needed
-to get a localized and personalized stream of content to our listeners.
-Mostly on the NPR One app, but this also extends into smart speakers and the NPR app and probably into
-some of our other digital platforms. So my charges to really think about how could we use algorithms
-which I think of is really the modern editorial tool, to connect people with the content that they need, and
-want, and appreciate.
+こちらこそ。
+
+でははじめに、パーソナライゼーションとキュレーションのディレクターという役割について、具体的にどのようなことをしているのかを教えていただけますか。
+これまでにない新しい役職、新しい役割のように思われますが、何が必要とされるのでしょうか。
+
+私たちは率直に司令塔を設けることにしました。ローカライズかつパーソナライズされたコンテンツをリスナーに届けるために必要なアルゴリズムや技術を、高いレベルで考えるので、現場に出るジャーナリストではありません。
+（アルゴリズムは）主にNPR Oneアプリに搭載されていますが、スマートスピーカーやNPRアプリ、そしておそらく他のデジタルプラットフォームにも搭載されるでしょう。
+アルゴリズムをどう使えば、人々を必要とするコンテンツに結び付け、評価する現代的な編集ツールになるか考えてみたいと思います。
+
 So my job is to really be that editorial person thinking about the editorial implication, thinking about the
 story arc and the breadth of our coverage, and having the conversations with the data scientists and asking
 the questions about "but what really would this do if we implemented this algorithm?" or "are there ways
