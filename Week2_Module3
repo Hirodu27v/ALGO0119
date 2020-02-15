@@ -1,4 +1,3 @@
-Module 2 - News Algorithm guest speaker Carl-Gustav Lindén, Media Journalism Researcher
 こんにちは、MOOC第2週に戻ってきました。今日はカール・グスタフ・リンデンさんをお迎えすることができてとてもうれしいです。
 カール・グスタフさんはヘルシンキ大のメディア・ジャーナリズム研究者であり、ストックホルムのセーデルトーン大の講師でもあります。
 ヘルシンキ大学でイマーシブ・オートメーション (Immersive Automation) と呼ばれるプロジェクトを率いてきました。これはニュースコンテンツの自動生成を利用するものです。
@@ -26,9 +25,9 @@ Module 2 - News Algorithm guest speaker Carl-Gustav Lindén, Media Journalism Re
 
 プロジェクトのコンテクストで評価を行ったということですね。何をテストして、その評価から何が分かりましたか？
 
-大切なことは、人々がその種のデータを受け入れていることよりも、身近で起こっていること、あなたの支持政党、あなたの「ビデオのスキップ」について書かれている文章は、たとえジャーナリストの文章のようによくできたものではくても、（二つの文章の）違いはずっと小さいかもしれないということです。違いは
+大切なことは、人々がその種のデータを受け入れていることよりも、身近で起こっていること、あなたの支持政党などについて書かれている文章は、たとえジャーナリストの文章のようによくできたものではくても、（二つの文章の）違いはずっと小さいかもしれないということです。違いは
 このようなシステムで書かれた文章をジャーナリストの文章と同じくらい信頼している人もいます。自動化されたテキストに信頼性があるとすれば、それは文化的な争いです。
-あなたが「ビデオをスキップ」と言っても、ドイツなのか、フランスなのか、イギリスなのかで全く違う結果になります。
+ドイツなのか、フランスなのか、イギリスなのかで全く違う結果になります。
 ハリウッド・ロボット症候群といったものがありますが、これはロボットについてどう思うか、またはどんな見た目かについてハリウッド映画に出てくるロボットが（あなたのイメージを）決めるというものです。
 あなたの思考をかなり左右するので、こうしたことを考えなくてはいけません。
 
@@ -49,123 +48,88 @@ Module 2 - News Algorithm guest speaker Carl-Gustav Lindén, Media Journalism Re
 そうですね、もう少し補足しますと、自動化されたコンテンツは何らかの形で仕事に影響を与えているのでしょうか。自動化がジャーナリストをお払い箱にした事例はありますか？
 
 編集局では何十年も自動化が行われてきました。つまり、フォトショップや単語のスペルチェックプログラム、これらのソフトや、人工知能と呼ばれているものが登場する前は、人間が手で作業していました。
-もちろん暗室アシスタントは編集局にはもういません。
+もちろん暗室アシスタントは編集局にはもういません。ジャーナリストたちはこれがさして大きな問題だと思っていないようです。
+彼らはこの新しいツールを使って、ますます多くのことを自らやるようになりました。
+編集局から姿を消した職種もありますが、ジャーナリストはまだそこで働いています。彼らはそれを喜ぶべきでしょう。
+アクティブな自動化が編集局そのものに与える影響は見当たりません。
+しかし、ここでももちろん、ジャーナリズムの効率性がプラスに作用していて、そこで何が起きているかを教えてくれます。
+あなたの読者に関係があること、つまりメトリクスの類です。
+こうしたツールはジャーナリストの仕事をより効率的にしていると思います。一般的には解雇されるかもしれない環境で働くことになるかもしれません。
+これによって実際に影響を受ける人がいるかどうかはわかりません。
 
-I don't think journalists think this is such a big deal. Journalists are doing more and more stuff themselves
-with this new tools. So, in a way I mean everybody else sort of disappeared from the newsroom, but
-journalists are still there working. So, I think they should be happy about that. I don't see any impact from
-active automation on newssrooms per se.
-But then again of course, the positive sort of spin is of course around the efficiency of journalism having
-more to smart do is telling you what's happening there. What is relevant to your audience. I mean metrics
-in any way. And I think those those sort of tools are making the jobs off of journalists more efficient. And
-it might be that generally you're not able to sort of. Work in that environment you might get laid off. I
-don't know if this might be an actual problem for some.
-Yeah I mean I think in the in the U.S. I've seen in fact a few job like new jobs created in order to kind of
-manage automation or oversee it or develop it. I mean are you seeing any of that going on in the in the
-automation projects that you've studied or are people actually hiring in order to maintain or supervise
-automation.
-I think we've lost the voice. Your voice I could repeat the question.
-Yeah. So in the in the US context I've actually seen a few companies are hiring people so automation
-editors, supervisors, people to maintain, people to create data and so on for these systems. Are you seeing
-any of that in your studies of the systems that you've come across.
-Yes of course there's new and new sort of categories in the newsroom but these people are very few. I
-mean maybe don't see a massive employment of let's say computational journalists. These are our special
-skills needed for a few but I don't think this will affect the sort of skills of the newsroom in a bigger
-picture.
-What I was referring to was maybe a more sort of skills to use used new tools but maybe not to develop
-new tools. And I think journalists I mean I've journalists there are big big users of new technology and it
-needs sort of the [video skips] adaption sort of processes for journalists to be able to sort of gain gain
-from the development in this software business.
-As interesting as one of the things that we're talking about this week in the MOOC is how to use a tool
-called Arria Studio, which is very much you know a template writing program as you know. So hopefully
-that's a chance for some of the students taking the course to start to get some of those skills using these
-tools.
-So I wanted to kind of you kind of alluded to something earlier and I wanted to kind of come back to that.
-So you know going back several years now automated content production was originally kind of framed
-or popularized under the term of robot journalism.
-And I know you've written some things and you've been sort of critical of that framing. Can you kind of
-explain that a little bit more. You know what's your view on this this whole robot journalism idea.
-Yes a former journalist and I would say as an academic is I really want people to use the right wording for
-what they're talking about. We have a lot of problems with misunderstanding each other depending on the
-metaphors we use, the stories we rely on. I mean there's so much especially in innovation is that such a
-would I say VR or hype prone to hype and I think it makes our lives much easier if we use the proper
-words to describe define what we're talking about. And with robot journalism is that we have no
-mechanical parts. I mean these are software systems that are no robots coming to take the jobs but still
-illustrators of this piece of news or these analysts send these articles always have a robot there with the
-keyboard but it just doesn't make sense.
-And and and there's several problems. One is as I said the Hollywood robot syndrome. Journalists tend to
-tend to be afraid of these sort of robot journalism thing. I think that these are going to take the jobs and if
-you look at the illustrations that actually seems to be the way even though these are not these intrusive
-systems.
-And of course I mean that with regard to robots overall. I mean you have had some problems with that. I
-tried to sort [video skips] success I have so far I must say. We introduced a washing machine. Where I see
-what journalists are doing they are sort of sorting the laundry, they are sorting the data, cleaning the data
-according to the sort of color fabric and you know what what temperature you should have in the washing
-machine and then use the right program and push the button and start button. And that's sort of I think in a
-way captures all the work that journalists did before and now can just have the machine to do. But as I
-said you know. I discussed this on many conferences, people laugh. I think this is funny but I see the
-robot journalists coming back everywhere unfortunately.
-So we should be talking about the washing machine journalists is that the better metaphor I guess?
-In your class you could have sort of the topic of trying to define, define a better metaphor. I don't think
-that washing machine is that good either. I would prefer something neutral like news optimization but let's
-see. Please let your students think about this.
-So what I mean what do you think is the role of things like drones and I mean. I mean will we ever see
-sort of true robots coming into and coming into journalism like real physical robots or is that you know 50
-or 100 years away.
-Yeah I think it's probably a 1920s something. I wouldn't see why would we have robots in journalism I
-mean we have sort of software devices probably all kinds of I mean bots that do interviews for us, collect
-information, drones they get pictures just following something. Is a drone a robot? Not quite sure. But I
-believe and actually now habit having worked with sort of news automation for for years as a computer
-scientist. I'm really really interested in what makes journalists human. So my new research project is
-actually about passion in journalism. What is passion and how is that sort of an passion as part of the sort
-of everybody is talking about engagement. And engagement in the business [video skips] for media,
-which is important because you need to cut get the right sort of connection to your audience and make
-them have to pay for what you produce and not having Facebook and Google in between taking the
-money. And I think true authentic passion is one important part of the business model but it's never been
-discussed in journalism studies. It's just recently come up as something you know well we all know we've
-been working as journalism. Newsrooms are really passionate. I mean people are screaming almost crying
-every day. And but this is not covered in research. I think it's because I think is it would be an interesting
-way of [video skips] insights.
-So that that's a really interesting sort of area for future research. I mean in terms of the automated
-production of content I mean what are you excited about there in terms of future research or are there
-interesting directions that you're thinking about? I mean where is this all going?
-Yeah I mean this it's really interesting with 5G technology, mobile qualitative pathology and sensors
-everywhere producing information. And sort of how do we get this information? What is what is relevant
-for us? This really interesting project in research product in Germany called Ambient News in Hamburg
-around there where it sort of gets you know get on your smart mirrors in your bathroom for instance get
-news or from social singles. And so you sort of you're always updating with what you need to know about
-what's happening right now weather or traffic or whatever it is. I think those types of it's not really news
-but it's part of the new sort of repertoire. And these kinds of things I think would be really important with
-alerts, alarms, updates from from these sensors from you know maybe an app moderated by a human or
-something.
-Interesting. And so I mean what do you think news organizations should be investing in then? I mean
-where should they be. Yeah. So where and where do you think news organizations should be investing? I
-mean what should they be. Where should they be putting there are innovation funds and there's sort of
-innovation data science teams and computer scientists. What should they be building next?
-It's a really good question. Fortunately very few media companies have these resources to build new stuff
-from scratch which just maybe needed. A sort of [video skips] providers and service providers for this.
-And it's really hard to say what the focus will be, but I would say that a focus on actually real journalism
-I think that's really an area which we tend to forget when you talk about metrics and analytics and data
-whatever. You need real journalists to do real journalism. That's really important. That's sort of the basis
-for the business model and as we add this new software services and algorithms and automation to [video
-skips] assistance. We need to make journalists even more human.
-And this is something I think that that the CEO of Apple has said in books that you know is not concerned
-about robot machines becoming humans. He's concerned about humans becoming machines and I think
-we should think about that much more.
-Yeah that's I think that that's a really interesting point. It's come up and a variety of contacts I'm studying
-as well as sort of you know how do we push back against people becoming too mechanical and sort of
-their role in these systems.
-Well so stepping back is there any kind of I guess final parting advice you would offer the students of the
-MOOC as far as you know as they start to learn more about these tools and technologies and and even try
-some of them on in terms of like writing an Arria Studio. Yeah. Any any final advice for them.
-Yeah I think it's important to think about the systems as interesting exciting but you might not need to
-have the ambition to become an expert on developing this stuff. But you need to be an expert in
-understanding what they do. What they're for. What's the logic behind? How to decide and debate, discuss
-these because as you're an expert on algorithmic decision systems overall and I think that sort also
-something we need to teach journalists, journalism students to understand how these systems work. Not
-just in journalism but everybody in society. And I think that's sort of a broadening the view from not just
-journalism and news media.
-It sounds like definitely the stuff that we're trying to cover in the MOOC so that's so that's great. Well this
-has really been fascinating Carl-Gustav. Thanks again for spending some time with us and for sharing
-your knowledge with the students in the MOOC. It's was great to have you here.
-Thank you for having me. It was nice. Thank you.
+アメリカでは、自動化を管理・監督したり、開発したりするために、新しい仕事が生まれています。あなたが研究した自動化プログラムでは実際に維持・監督するための雇用が生まれているのでしょうか。
+
+音声の調子が良くないようです。もう一度質問してもらってもいいですか。
+
+ええ。アメリカでは、いくつかの企業が自動化エディター、スーパーバイザー、保守担当者、システムのデータ作成担当者などを雇っています。あなたはシステム研究の過程でそれを見たことがありますか?
+
+編集局には新しい種類の（仕事の）カテゴリーがありますが、そうした人はほとんどいません。コンピュータージャーナリストの大量採用は望み薄かもしれません。
+これらは少数の人たちに必要な特別なスキルですが、全体的に見て編集局のスキルの種類には影響しないと思います。
+私が言ったのは、既存のツールを使うためのスキルであって、新しいツールを開発するためのスキルではないかもしれないということです。
+新しいテクノロジーを使いこなすジャーナリストが、このソフトウェアビジネスの発展から利益を得るためには、ジャーナリストが[ビデオスキップ]適応するようなプロセスが必要です。
+今週のMOOCで興味深いのは、Arria Studioというツールの使い方です。これが、受講している学生たちにとって、スキルを身につけるきっかけになれば幸いです。
+
+先刻の話に戻りたいと思います。数年前までは自動化されたコンテンツ制作は一般的にロボットジャーナリズムと呼ばれていました。
+あなたはその枠組みに批判的ですね。もう少し説明してもらえますか?ロボットジャーナリズムのアイデアについてどう思いますか。
+
+ええ、元ジャーナリストとして、また学者として、私は人々に、正しい言葉遣いをしてほしいと思っています。
+私たちは、使用するメタファーや信頼するストーリーによって、お互いを誤解してしまうという問題を抱えがちです。
+とりわけイノベーションには仮想現実というか誇大宣伝のようなきらいがあり、適切に定義された言葉を使えば話はもっと簡単になると思います。
+ロボットジャーナリズムではメカニカルな部分はありません。
+ロボットが仕事を引き受けてくれるわけではないのに、こうしたソフトウェアシステムのニュースを送ってくるアナリストや、イラストレーターときたら、キーボード付きのロボットを必ず付けてきます。これは意味がありません。
+いくつかの問題があります。
+一つは先ほどお話ししたハリウッドロボット症候群です。ジャーナリストはこの種のロボットジャーナリズムを恐れる傾向があります。
+私は仕事を引き受けてくれるものだと思いますし、どのように動作するのか説明するイラストをみれば出しゃばりのシステムではないように見えます。
+もちろんロボット全般についても同じことが言えます。いくつかの問題はありましたが。
+これまでに成功した事例を整理してみました。それは洗濯機を導入したようなものです。
+ジャーナリストが洗濯物（ネタ）を分類しているのを見ると、それはデータの分類であるのがわかります。
+色のついた織物の種類に応じてデータをきれいにし、温度を決めて正しいプログラムを使いスタートボタンを押します。
+これはある意味でジャーナリストがこれまで行ってきたことをまとめたもので今では機械だけでできるようになりました。
+多くの会議でこの話を取り上げると笑いが起きます。ばかげたことと思われるのかもしれませんが、残念ながらロボットジャーナリストはどこにでもつきまといます。
+
+洗濯機ジャーナリストというのは適切なたとえなのでしょうか。
+
+洗濯機ジャーナリストより、このクラスでは、より良いメタファーを定義し、定義しようとするトピックを持つことができます。
+ニュースの最適化のような中立的なものがいいのですが、見てみましょう。あなたの生徒たちに考えさせてください。
+
+ドローンについて考えを聞かせてください。本物のロボットがジャーナリズムの世界に登場してくるのを見ることができるのでしょうか。
+それともそれには50年か100年待つことになるのでしょうか。
+
+これは1920かそこらだと思います。ジャーナリズムの世界には、あらゆるソフトウェア装置があります。私たちのためにインタビューをしたり、情報を収集したり、ドローンが何かを追跡して写真を撮影したりします。
+ドローンはロボットでしょうか?よくわかりません。しかし私はコンピュータ科学者として何年もニュースの自動化に取り組んできました。
+私の新しい研究プロジェクトは実はジャーナリズムへの情熱です。情熱とは何か、エンゲージメントの一部として語られる情熱とはどんなものかというものです。
+そしてメディアビジネスにおけるエンゲージメントは重要です。なぜなら、あなたの記事に読者がお金を払ってくれるようにして、FacebookやGoogleが介在しないようにする必要があるからです。
+情熱はビジネスモデルの重要な一部だと思いますが、ジャーナリズムの研究では議論されていません。
+ご存知の通り、私たちは長年ジャーナリズム業界で働いてきました。編集局は実に情熱的（な場所）です。阿鼻叫喚の日々です。しかしこれは研究対象にはなっていません。
+これは面白い洞察を得ることができそうなのですが。
+
+それは将来の研究にとって非常に興味深い分野です。自動化されたコンテンツ制作という意味では、将来の研究に関してどのようなことを期待していますか、あるいは、何か面白い方向性を考えていますか?
+5G技術、モバイル定性的病理学、あらゆる場所で情報を生成するセンサーなどは、本当に興味をそそられます。情報を得るにはどうしたらいいのでしょう。私たちにどんな影響を及ぼすのでしょうか。
+ハンブルクのアンビエントニュースという製品リサーチプロジェクトによれば、浴室のスマートミラーでニュースを見たり、ソーシャルシングルから情報を得たりできるそうです。
+あなたは常に、今何が起きているのか、天気とか交通状況とか、何であれ知っておくべきことを更新できるのです。
+このようなタイプは特に目新しいものではありませんが、新しいレパートリーの一部だと思います。私が思うに、この種のアラートやアラーム、これらのセンサーからのアップデートなどが、今は人間が調節しているアプリのようなになるなら、非常に重要（な位置を占める）はずです。
+
+おもしろいお話でした。では報道機関は何に投資すべきだと思いますか?イノベーションのための資金があり、そのためのデータサイエンスチームやコンピュータサイエンティストがいます。次に何を作るべきでしょう?
+
+いい質問ですね。新しいものをゼロから構築するためのリソースを持っているメディア企業はほとんどありません。
+実際のジャーナリズムに焦点を当てるというのは私たちがメトリクスや分析やデータについて話すときに忘れがちな分野だと思います。本当のジャーナリズムには真のジャーナリストが必要です。
+これがビジネスモデルの基盤のようなもので、この新しいソフトウェアサービスとアルゴリズム、自動化はそれを支援するために追加されるものです。
+ジャーナリストをより人間らしくする必要があります。
+これはAppleのCEOが著書で言ったことだったと思います。彼はロボットが人間になることではなく、人間が機械になることを心配しています。
+私たちはそれについてもっと考えるべきだと思います。
+
+それはとても興味深い点だと思います。私の研究でも様々な論点が出てきています。
+皆さんも知っているように、人が機械的になりすぎてシステムの中で役割を果たす（だけ）になるのを防ぐにはどうすればいいでしょうか。
+ここで少し話を戻しますが、MOOCの学生がこれらのツールや技術について学び始め、Arria Studioを書くなどの観点からそれらのいくつかを試し始めるにあたり、最後にアドバイスをお願いします。
+
+システムを興味深いものとして考えることは重要だと思います。開発の専門家になるという野心は必要ないかもしれません。
+しかし、彼らが何をしているかを理解する専門家である必要はあります。
+彼らは何のために存在するのか？背後にある論理は何か？
+皆さんはアルゴリズム的な意思決定システムの専門家となって意思決定がどのように行われるのか議論すべきです。
+ジャーナリストやジャーナリズム専攻の学生にこのシステムの仕組みを理解してもらう必要があります。ジャーナリズムだけでなく、社会の誰にでも当てはまります。
+これはジャーナリズムやニュースメディアに限定された話ではないと思います。
+
+これはまさにMOOCで説明しようとしてきたことです。カール・グスタフさん、とても魅力的なお話でした。
+私たちと一緒に時間を過ごしてくれて、MOOCの生徒たちと知識を共有してくれて、どうもありがとう。
+
+お招きありがとう。いい（インタビュー）でした。ありがとう。
