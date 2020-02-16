@@ -17,31 +17,24 @@ NPR Oneアプリのアルゴリズムによるキュレーションとパーソ�
 生徒は（アプリを）使ったことがないかもしれないので、その仕組みや機能、提供される情報について教えてください。
 
 NPR Oneアプリはいわばニュースのパンドラのようなものです。個々のニュース記事をローカライズし、ユーザーの興味に基づいてある程度パーソナライズします。
+車のダッシュボードやテレビでNPR Oneを開き、再生ボタンを押すとコンテンツの連続ストリームが始まります。
+アルゴリズムは利用可能なコンテンツを、私たちキュレーション&パーソナライゼーション編集チームが設定した様々な基準にあてはめます。
+最初に全国のニュース、そしてNPRメンバー局からの地域ニュース、次にNPRポッドキャストのニュース記事と、アルゴリズムがユーザーの好みを学習したサードパーティーの提供元からのポッドキャストをミックスして流します。
+私たちは本当に必要とされるコンテンツについて人間が下せる決定を最大限に活用し、優れたストーリーテリングによって人々がその日のニュースを理解するのを助けようとしています。
+そしてそれはNPRがよく知られているように、運転中のセレンディピティが人々の経験の幅を広げています。
+これらの要素について人間が下す最善の判断はアルゴリズムと組み合わせることです。
+すなわち今何をしているのかと、どこにいるのかという二つの要素を融合させるのです。
+私たちはNPR Oneは人間のキュレーションとアルゴリズムの間の隠された情報源だと考えています。
 
-So, when you go to the app or you encounter an NPR One experience you know in your car dashboard or
-on a television set you basically hit play and it starts a continuous stream of content and the algorithm is
-basically going through all of the content it has available and fitting various pieces of content into various
-almost buckets that we've set up based on various criteria that we the curation and personalization
-editorial team have setup.
-So it starts by playing you a national newscast and then it goes and finds your local newscast from your
-local NPR member station and then it's assembling a mix of news stories from NPR from your local
-member station podcasts from NPR podcasts from your local member station and even podcasts from
-third party podcast providers that the algorithm has learned that you like.
-So overall what we're trying to do with this is take the best of the decisions human beings can make about
-content that's really relevant and great storytelling and helps people understand both the news of the day
-and some of the breadth of the human experience that the serendipity in the driveway moments that NPR
-is kind of known for, and taking you know, the best of the decisions humans make about those factors and
-combining it with what algorithms do really well which is you know tracking behavior to some degree
-and knowing where you are localizing you and really trying to blend the two.
-So we think of NPR One as that secret source between human curation and algorithms.
-So, can you tell us a little bit more about the sort of the human editorial work that's involved in sort of
-keeping this algorithm humming along? What does that work look like and how does that work blend into
-what the algorithm is doing?
+このアルゴリズムを維持するための人間の編集作業についてもう少し詳しく教えていただけますか?
+その動作はどのようなもので、アルゴリズムの動作にどのように組み込まれているのでしょう?
+
 Sure. So, a lot of what the humans are doing is really listening to every single audio news story and pretty
 much a ton of the podcast work that's out there and making some decisions about what role it plays for
 people, how long is it going to be relevant for, what feels super important and in the moment today or
 watch us bring a little bit of of breadth and deeper understanding and helping the algorithm understand
 how a human would interpret these pieces and where it would fit in in the needs of a human being.
+
 I think sometimes you know, I look at other platforms where an algorithm is very heavily used and you'll
 see something pulled that has this clearly incredibly popular and lots of people have engaged with it, but
 in a very fast rolling news cycle it sometimes is actually out of date and not the most up to date
