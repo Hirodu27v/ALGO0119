@@ -29,23 +29,17 @@ NPR Oneアプリはいわばニュースのパンドラのようなものです�
 このアルゴリズムを維持するための人間の編集作業についてもう少し詳しく教えていただけますか?
 その動作はどのようなもので、アルゴリズムの動作にどのように組み込まれているのでしょう?
 
-Sure. So, a lot of what the humans are doing is really listening to every single audio news story and pretty
-much a ton of the podcast work that's out there and making some decisions about what role it plays for
-people, how long is it going to be relevant for, what feels super important and in the moment today or
-watch us bring a little bit of of breadth and deeper understanding and helping the algorithm understand
-how a human would interpret these pieces and where it would fit in in the needs of a human being.
+人間がしているのは音声ニュースとポッドキャストを聞いて、それが人々に対してどんな役割を果たすのか、何が重要なのかを把握し、アルゴリズムがニュースをどう判断し、人間のニーズとどう適合するのかを幅広く、深く理解することです。
+他のプラットフォームではアルゴリズムが頻繁に使われていて信じられないほどの人気があり、多くの人が利用しています。
+しかしニュースのサイクルが非常に速くなると、（流れてくるのは）古い情報で最新の情報ではないこともあります。
+それなのに多くのアルゴリズムにはそれを知るためのツールがありません。
+人気が高く、視聴人数が多くても１時間前のストーリーを今流すべきではありません。私のチームはそれを監視しています。
+なぜなら、現時点では人間の方がそれを効率的にできるからです。
 
-I think sometimes you know, I look at other platforms where an algorithm is very heavily used and you'll
-see something pulled that has this clearly incredibly popular and lots of people have engaged with it, but
-in a very fast rolling news cycle it sometimes is actually out of date and not the most up to date
-information, but many algorithms don't really have the tools to know that, that the story has actually
-advanced a little bit.
-And what was incredibly popular and had high engagement times, an hour ago actually isn't the right
-story to be giving people this hour. So my team is really monitoring that because at this point in time
-that's something that humans do really well and really efficiently.
-Now, in terms of you know, how this algorithm think that people are feeding into it, can you tell us a little
-bit about how things like the diversity of content or the mix of content maybe get reflected in the curation
-algorithm that NPR One embodies?
+さて、このアルゴリズムは人々がどのように情報を取り入れていると考えているのか、アプリのキュレーションアルゴリズムにコンテンツの多様性と組み合わせをどのように反映しているのかを教えてください。
+
+
+
 Sure. I mean I think the way to think about it is one of the main jobs of the algorithm is actually the whole
 localization piece to make sure that you're not just getting a feed of national content that you're getting
 content that speaks to the community that you are in geographically, but also starts to speak a little bit to
