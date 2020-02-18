@@ -38,16 +38,13 @@ NPR Oneアプリはいわばニュースのパンドラのようなものです�
 
 さて、このアルゴリズムは人々がどのように情報を取り入れていると考えているのか、アプリのキュレーションアルゴリズムにコンテンツの多様性と組み合わせをどのように反映しているのかを教えてください。
 
+もちろん。アルゴリズムの主な仕事の一つはローカライゼーションです。
+国内のコンテンツや地理的に今いるコミュニティだけではなく、アイデンティティに根ざしたコミュニティの情報も提供します。
+地域に密着したコンテンツを提供するだけでなく地域に密着したコンテンツを提供することです。
+これによって、ユーザーがフォローしているか購読しているかに関係なく、ユーザーが好きなポッドキャストを知ることができます。
+人間はコンテンツの流れにかなり幅を持たせた素晴らしいポッドキャストを配置して、ユーザーがそれにどう反応するかを見ることになり、ユーザーがそれを使って良いポジティブな体験をしたことが明らかになれば、アルゴリズムはそれを再びユーザーに提供するのです。
+うまくいかなければフィードをやめます。
 
-
-Sure. I mean I think the way to think about it is one of the main jobs of the algorithm is actually the whole
-localization piece to make sure that you're not just getting a feed of national content that you're getting
-content that speaks to the community that you are in geographically, but also starts to speak a little bit to
-the communities you identify with.
-And through that you know, the way it's doing that is learning what podcasts you like regardless of
-whether you actively follow or subscribe to it. So the humans will place great podcasts with a fairly large
-breadth into the flow of content and see how you respond to it, and if you respond well to it and use you
-clearly had a good positive experience with it, the algorithm is going to serve it to you again.
 If it was something that didn't really work out for you will probably stop feeding it to you. We also use
 the algorithm to offer other perspectives to use, so the algorithm can learn like "oh you know this person
 is listening to a whole lot of partisan podcasts, let's give them a chance," in case it was really inadvertent
