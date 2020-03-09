@@ -43,12 +43,9 @@ NPR Oneアプリはいわばニュースのパンドラのようなものです�
 地域に密着したコンテンツを提供するだけでなく地域に密着したコンテンツを提供することです。
 これによって、ユーザーがフォローしているか購読しているかに関係なく、ユーザーが好きなポッドキャストを知ることができます。
 人間はコンテンツの流れにかなり幅を持たせた素晴らしいポッドキャストを配置して、ユーザーがそれにどう反応するかを見ることになり、ユーザーがそれを使って良いポジティブな体験をしたことが明らかになれば、アルゴリズムはそれを再びユーザーに提供するのです。
-うまくいかなければフィードをやめます。
+うまくいかなければフィードをやめます。私たちはこのアルゴリズムを他の視点を提供するためにも使用しているので、
+「この人は多くの党派的なポッドキャストを聞いているので（別の視点に触れる）機会を与えましょう」と学習させることができます。
 
-If it was something that didn't really work out for you will probably stop feeding it to you. We also use
-the algorithm to offer other perspectives to use, so the algorithm can learn like "oh you know this person
-is listening to a whole lot of partisan podcasts, let's give them a chance," in case it was really inadvertent
-to hear a podcast from a different political point of view.
 That's something that's just offered. Some people choose to accept us on it, some people don't, but that's
 something the algorithm has asked to do, or employed to do, so it's really trying to figure out you know
 how do we use the algorithm in an editorially responsible way to get you the news of the day?
