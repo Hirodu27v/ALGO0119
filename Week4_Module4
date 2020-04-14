@@ -1,71 +1,43 @@
-News Algorithm guest speaker Christina Elmer, Der Spiegel
-このMOOCの最後の専門家インタビューです。クリスティーナ・エルマーをお迎えしました。
-Today we're joined by Christina
-Elmer who is a member of the editorial board at Der Spiegel in Germany. Der Spiegel has done
-some really really interesting investigations into algorithms and society as part of their coverage
-over the last year or so. And so I'm really looking forward to learning more about those types of
-projects.
-Cristina Hello and welcome. It's really wonderful to have you with us today. Speaking to us
-about these investigations. Thanks very much for sharing with the with the MOOC today.
-Of course. You're welcome. Thank you.
-So I want to kind of dive in you know some of the some of the students of the MOOC it's a very
-international class. They may not be familiar with Der Spiegel. I wonder if you could sort of start
-us out by telling us a little bit about the publication and also about your particular role there.
-Yeah. The Spiegel is a German news weekly magazine which has a really long tradition that
-has been founded in 1947 I think and since 1994 we also have our own news website Spiegel
-Online. And this news website has its own independent editorial team and the data driven
-newsroom. We reach around 21 million readers per month. So this is the unique users number.
-And most of them are in Germany right now. And I started as a science editor there at Spiegel
-Online and then could boot up the data journalism department which is now consistent or four
-colleagues with different skill sets. Two of them are journalists who learn to code and two were
-originally urban planners who started a blog and then published their own things and we found
-them by this. So the team is quite diverse in its backgrounds and it already combines many
-different perspectives in itself.
-So I had the pleasure to lead this team until last year and now I am working as a member of this
-editorial board at Spiegel Online so I'm fostering data journalism but also the overall further
-development of the site or designs towards and workflows for example.
-Great. So you know one of the topics for the MOOC this this week is about how to investigate
-algorithms in society. And I know Spiegel has done several of these investigations. You recently
-published a chapter in the data journalism handbook. I wonder if you could sort of tell us a little
-bit more about some of these investigations that you've been undertaking there.
-We did this because we believe that algorithms influence many quite important areas in our
-society already. So for us it was quite natural to go into this direction because we believe that
-journalists should be able to investigate on them. And there has been a constant discussion on
-algorithmic accountability at Spiegel Online in this in the years and the recent years. But initially
-only as an occasion for our reporting not in the form of our own research or analysis project
-covering and analyzing algorithms.
-So we started with these projects basically as a collaboration project because as you know
-already our data journalism team is quite quite small and we don't have a big data analysis unit
-in the background for example. So we started doing such projects in 2017 in the run up to our
-federal elections in Germany. And then we joined forces with a German NGO named Ableism
-Watch. They are quite early experts in this field and they helped us to gain insights into the
-presentation of Google search results. So we did the crowd sourcing with them. They did the
-analysis and then we published the results together and yeah through this project our data
-journalism department supported the planning and the methodology and the methodology to
-evaluation of the operation. So it's more or less has been a part where we have been partner of
-the project but did not do everything on our own was a nice thought into that topic. And as a
-result it turned out that the personalization was not as intensive as expected. So we could
-somehow debunk a widespread myth by doing this investigation and just as it was not the result
-that we had expected as well.
-So this is sort of looking at that the filter bubble and the Google search results.
-Yeah. Well it was about about the question if this filter bubble really existed and if especially if it
-existed and in a sense that you get different search results based on your local placement like
-like your IP address. People always thought that this would be the case and that this would
-really distinguish the different filter bubbles. But we found out that when you look at the first
-sides of the news results of the Google search results you don't see that many differences
-there. So yeah at least according to the to the to the place where you where you are. So yeah.
-And at the same time also in the run up to the elections we collaborated with ProPublica and
-they they had done this ad collect a project in the US and also wanted to do it in several
-European countries and it was perfect to try this out in Germany. And the goal here was to try to
-see if Facebook ads targeting has been done by the German parties and to make this
-transparent. So we thought they they will of course use this option to get to directly address
-certain target groups for example with their messages. And then again we found out that those
-parties did not really use ads targeting that much. And of course it was quite interesting to
-collect all those ads and to get an overview especially on those local ads. This was something
-that they did. They only published the ads of local political groups in this area which totally
-makes sense. But when you look at this from Hamburg you don't see them. So. So this was a
-helpful project and we could make them transparent. And there was this this site where we
-collected them like a catalog also accessible to our users and readers.
+このMOOCの最後の専門家インタビューです。
+今日はドイツのDer Spiegelの編集委員であるクリスティーナ・エルマーさんにご登場いただきます。デア・シュピーゲルDer Spiegelはここ1年ほど、アルゴリズムと社会について実に興味深い調査を行ってきました。このようなプロジェクトについてもっと知りたいと思っています。
+クリスティーナさん、ようこそ。これらの調査についてＭＯＯＣに参加する私たちとこうして共有していただけることに感謝します。
+
+こちらこそ。
+
+まずＭＯＯＣの学生にあなたを紹介したいと思います。とても国際色豊かなのでシュピーゲルをよく知らない人がいるかもしれません。
+まずはシュピーゲルと、そこでのあなたの役割について少し話してもらえないでしょうか。
+
+はい シュピーゲルはドイツのニュース週刊誌で、1947年に創刊され、1994年からは自前のニュースサイト「シュピーゲル・オンライン」も運営しています。
+このニュースサイトは独立した編集チームとデータに基づいた編集局を擁し、読者は毎月約2100万人を数えます。これがユニークユーザー数です。そして、そのほとんどがドイツ国内にいます。
+私はシュピーゲルオンラインで科学編集者としてスタートし、４人の異なる技能を持つ同僚とともにデータジャーナリズム部門を立ち上げました。
+うち２人はコーディングを学ぶジャーナリスト、残り２人は元々都市計画の専門家で自分のブログで作品を発表していました。
+チームのバックグラウンドはとても多様で、それ自体がすでに様々な視点を兼ね備えているのです。
+私は昨年までこのチームを率いていましたが、今はシュピーゲル・オンライン編集委員会のメンバーです。
+
+今週のMOOCのトピックの一つは、社会で稼働しているアルゴリズムの調査についてです。シュピーゲルがいくつかの調査をしたことは知っています。
+あなたは最近、データジャーナリズムハンドブックの章を担当しましたね。あなたが行ってきた調査について、もう少し詳しく教えていただけないでしょうか。
+
+私たちは、アルゴリズムが既に社会の多くの重要な分野に影響を与えていると考えています。ですから、この方向に進むのは自然なことでした。
+ここ数年、シュピーゲル・オンラインでは、アルゴリズムの説明責任について議論してきました。しかし当初は、単発の報道の機会としてであって、アルゴリズムを包括的に分析する調査やプロジェクトの形を取りませんでした。
+先述の通り、データジャーナリズムのチームは小規模で、大きなデータ分析ユニットなどはありません。そのため、2017年にはドイツの連邦選挙に向けて、Ableism WatchというＮＰＯと協力し、このようなプロジェクトを開始しました。
+彼らはこの分野では先駆的な専門家で、Googleの検索結果の表示をめぐる洞察を得るために協力してくれました。私たちは彼らと一緒にクラウドソーシングを行いました。彼らは分析を行い、その結果を共同発表しました。
+このプロジェクトでは、私たちデータジャーナリズム部門が企画・方法論・運用評価までをサポートしました。全てを自分たちで行うのではなく、多かれ少なかれ協働できたのは、このトピックにおいてはいい考えでした。
+その結果、（連邦選挙では）パーソナライゼーションはあまり強くなかったことが分かりました。この調査によって、広まっている俗説を覆すことはできましたが、期待した結果は得られませんでした。
+
+これはいわゆるフィルターバブルとGoogleの検索結果といった話ですよね。
+
+そうですね、私たちの疑問は、フィルターバブルは本当に存在するのか、特にそれはIPアドレスのようなローカルな位置情報に基づいて異なる検索結果が出るということなのかということでした。
+人々はこれまで、フィルターバブルが実在していて、居場所によって異なるフィルターバブルを識別することができるのかどうか考えてきました。
+しかし、Googleのニュース検索結果で最初に表示されるものは、地域によってさほど違いがないことが分かりました。少なくとも、あなたが今どこにいるかによって検索結果に違いはないのです。
+そして同時に、これまでプロパブリカがアメリカの（選挙）広告を収集していて、これをヨーロッパのいくつかの国でもやってみようと考えていたので、ちょうどドイツは最適な国でした
+ここでの目標は、Facebookのターゲティング広告がドイツの政党によって行われているかどうかを明らかにすることでした。
+政党はもちろんこのオプションを使用して、例えばメッセージで特定のターゲットグループに直接接触しようとすると考えました。
+しかし再び、これらの政党はあまりターゲティング広告は使っていないことが判明しました。
+もちろん、すべての広告を収集すること、特にローカル広告の概要を把握するのは非常に有意義なことでした。政党が行ったのはローカル広告だったのです。
+合理的にも、彼らは地元の政治グループの広告だけを公開しました。ハンブルグからこうした広告は見ることができません。
+この有用なプロジェクトによって、透明性を高めることができました。読者はそれらを収集した、カタログのようなこの「サイトにアクセスすることができます。
+
+
 Yeah. It was not the result that we had expected again. And last year this topic of algorithmic
 accountability reporting really got interesting because we we did and project on an extremely
 powerful algorithm in Germany the Schufa credit report and record which is used to assess the
