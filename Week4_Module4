@@ -48,14 +48,11 @@
 
 それらのデータセットから、シューファーの信用スコアについて何を見つけましたか？
 
+2012年頃（のデータセット）だと思いますが、2500種類のレポートがクラウドソーシングされたので、あらゆる面でどのように機能しているのかを詳細に調べることはできませんでした。
+膨大な数ではありましたが、ある項目について調べ上げることができないほどではありませんでした。
+信用スコアのソースからは、高齢者や女性が、住所変更の頻度が低い人と同じように有利だと言えるのはとても興味深い結果でした。
+信用スコアは異なるバージョンのシステムで評価されていることも分かりました。つまり、同じ経歴の人物でも異なる結果が出るということです。
 
-We we could not really find out how it works in detail in every aspect because we had I think
-around 2012, 2500 different reports crowdsourced. So it was quite a lot but not that many to
-really investigate on every different or every single aspect. But we found that the source of the
-score privileges older and female individuals as well as individuals who changed their
-addresses less frequently which was quite interesting. And we saw for example that there have
-been different versions of scoring algorithms used within this huge score. So with different
-outcomes for people with the same background information.
 So depending on which bank you you are having your money on, you can get different results.
 So some banks used older versions while others have already updated their systems and that
 has not been made transparent at all and reports and discriminated against certain groups of
