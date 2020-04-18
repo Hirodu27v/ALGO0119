@@ -59,51 +59,28 @@
 また、連携して大きなプロジェクトを成功させるにはどのようなスキルが必要なのでしょう。詳しく説明していただけますか？
 
 膨大な文書やデータセットを処理できる同僚が必要なので、こういうコラボレーションの可能性に加えて、独自のデータジャーナリズム部門は不可欠ですが、必要なコードを書いてもらって、（自分たちは）結果をジャーナリズムの観点から評価することもできるはずです。
-それが本当に価値あるものなのか、報道に値するのか、
-I think you definitely need your own data journalism department besides all those collaboration
-possibilities because you need the colleagues who can handle huge sets of documents and
-huge data sets in-house but they should also be able to write the necessary code and assess
-the journalistic relevance of the results because this is a back and forth that we always have in
-such projects that we see something in the data sets and we have to ask ourselves Is this really
-worth it? And worth it and is this really a result that we would publish and yet concerning or
-relating to our journalistic relevance criteria. So we have to have both on board and I think you
-often need to have a methodology for understanding the team how such a crowd sourcing
-process can work because you have to set up this like design framework for us with all your
-partners. I think many other things can be done via collaborations with other data sets or NGOs
-or scientific partners for example.
+それが本当に報道に値するのか、そしてそれは本当に私たちが報道しようとしている通りなのか、ジャーナリストの基準に照らして考えなければいけません。
+その両方が必要ですから、クラウドソーシングがどのように機能するのかチームで理解するための方法論が必要になることが多くなってくるでしょう。
+というのも、このフレームワークはどのパートナーとであっても一緒にデザインしなければならないからです。
+（今回の事例にとどまらず）他のデータセット、他のNGO、他の科学分野におけるパートナーとのコラボにも言えることだと思います。
+自分たちのチームがジャーナリズムの視点からデータセットに取り組むことは非常に重要です。私たちはそれを実行しました。
+つまり、異なるシステムの異なる要素を組み合わせたのですから、まず適合性の基準を議論しなければなりませんでした。
+事前に要件と能力について話し合ったのです。また、結果をどのように報じるのか？なんと言えばいいんでしょう、PRではなく、間違いを起こさないための標語を考えました。
+私たちはバイエルン放送と一緒に作業をしていました。ワークスペースにはSlackチャンネルがあり、このプロジェクトのためだけに設定されていました。
+Slackについては詳しい説明は避けますが、こうしたツールはあなたも必要になると思います。
 
+外部の協力者はどうでしょう。彼らがプロジェクトに何をもたらすと考えていましたか？
 
-But I think it's crucial to have your own team working on the data set with a journalistic view.
-And we saw that. I mean we brought together different factors from different systems so we first
-had to discuss our relevance criteria. We had to discuss the requirements and the capabilities
-beforehand. Also how would you report on the results. What would you say? What what is the
-one sentence that we all should be using not in terms of PR but in terms not to get anything
-wrong. And we of course had working towards that we use together for example with the Varian
-data team. We had Slack channel that was on our workspace and select only set up for this
-project because it's so big that you really need some. Yeah I won't call Slack elaborate but you
-need to be to make more yet. You need such tools yeah.
-And then what about sort of the external collaborators. How did you think about what they were
-bringing to the table in terms of these projects?
-I think they could approach the topic from a different angle. That was quite helpful. For example
-the NGOs could really fight for the crowdsourcing and really come up with with their really
-distinguished opinion about making this transparent and also be a bit more aggressive on that. I
-would say. [Video skips] it was more like we we what we are not neutral because we think
-transparency is really important but concerning the algorithm itself. We want to be be more
-neutral compared to the NGOs and we should also be independent from them. So because in
-the end we publish results and we want to be taken seriously by the public but also by the
-Schufar for example which is a company making a lot of money out of this algorithm. So we had
-to stay independent. So this is what NGOs can bring in and concerning the scientific partners.
-Some of them have also been involved in the Algorithm Watch Project in the run up to the
-elections. They can really bring in methodology and capabilities in terms of analysis skills and
-Data Handling and the like like they could program the the Firefox add on that we use for
-example to collect all those or those search results whereas ProPublica for example could code
-this add on that we used to collect those Facebook ads we used a Facebook add on. Yeah. No
-it was Firefox add on to collect the Facebook ads but I think we could not have done this
-internally. We don't have the people here. So yeah they're different different skills but also
-different position of of those external collaboration partners that can really help.
-Right. Right. So now that you've worked through several of these projects I mean is there
-anything that you've noticed is particularly difficult or challenging and kind of pulling together
-these investigations.
+違う角度からのアプローチができたのではないかと思います。これは非常に参考になりました。例えばNGOはクラウドソーシングに本腰を入れて取り組み、透明性を高めるために傑出した意見を出してくれました。
+透明性は心底重要だと思っていますが、アルゴリズム自体には問題があります。NGOと比較すれば中立でありたいと思っていますし、NGOに対しても独立した立場でなければいけません。
+最終的に結果を報じ、一般の人々に真剣に受け止めてもらいたいと思っていますが、このアルゴリズムで大金を稼いでいるシューファー社にも同じように真摯に受け止めてもらいたいのです。
+だから私たちは独立を保つことが必要でした。これがNGOがもたらすことができるものであり、科学的なパートナーでも同様です。
+彼らの中には、（ドイツの連邦）選挙の前に、アルゴリズム検証プロジェクトに携わってきた人もいます。彼らは分析スキルやデータ処理の面で方法論や能力をもたらしてくれます。
+例えばプロパブリカは検索結果を参照するFirefoxのアドオンをコーディングすることができます。これを使ってFacebookの（選挙）広告を収集しましたが、これは内部の人間だけではできませんでした。
+そんなことができる人は社内にいません。社内にはないスキルであり、大いに手助けをしてくれる外部のコラボパートナーの多彩さを示しています。
+
+なるほど。これまでのプロジェクトを通じて、特に難しかったことややりがいを感じたこと、調査をまとめる上で気付いたことはありますか？
+
 I think one one challenging aspect is the project management because you need project
 management to skills at least to to really foster these investigations with many partners and with
 many partners in house and externally. So so this is something that is not widespread in
