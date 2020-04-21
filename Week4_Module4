@@ -97,21 +97,18 @@ Slackについては詳しい説明は避けますが、こうしたツールは
 まずやってみることです。そして私たちが他のチームと議論を重ねたように、他のチームや科学者、様々な方法でアルゴリズムにアプローチできる様々な出自の人々と議論しているように、コラボレーションは非常に有用です。
 社内や編集局内部でも、コラボはまだ確立されていないかもしれませんが、なぜこのようにするのか、なぜこのようにしなければならないのかをすべての人に伝えることは難しくありませんでした。
 それから、まずは調査設計に時間をかけるべきだと思います。最終的には、あなたの調査結果の信頼性はこの調査設計に基づくので、このトピックについてコンピュータ科学者や社会、文化の研究者と話すのも有益でしょう。
+つまり、科学的なプロセスを始まりに置いて、最終的に重要になるのは健全かつ包括的な方法で目標を定義することだと思うのです。
+最初の大きな目標は（人々の）意識を高めることではないでしょうか。というのも、社会の至る所で使われているアルゴリズムに、あまりに多くの人々が無頓着だからです。
+だからそれが目標になりうるのです。これはとても大切なことです。
+そして、アルゴリズム（の仕組み）を分解したり、アルゴリズムがもたらしうるあらゆる差別的な影響を調べようとはしないことです。
+読者からすると、アルゴリズムそのもの（の仕組み）は最も興味深いものではないでしょう。
+それがもたらす結果や、自分の日常生活で感じることができる個人的な影響により注意を払うのです。それらは些細なことかもしれませんが、読者にとって切実かもしれないのです。
+私が思うに、読者の視点は重視すべきですね。
+
+何もしないよりはやった方が良い。とりあえず飛び込んでみる。私はそうしたアプローチが気に入りました。
 
 
-So it's the scientific process in the beginning and I think the most important thing in the end is to
-to define your goals in a sound and comprehensive way. Because I mean first strong goal might
-also be to raise awareness because many many people don't know about algorithms that are
-working in certain fields of society so this is a goal in itself. It's really important.
-And don't try to deconstruct the algorithm or to investigate every discriminatory effect it might
-have because I think you wouldn't really need extensive datasets to do it in most cases they are
-not available. And from the reader's perspective, I would say that the algorithm itself is not the
-most interesting thing anyway. So they are really much more interested interested in the results
-and what their personal impact might be that they can feel in their everyday lives. These small
-bits might be also really important for the readers. So the reader's perspective is really
-important. I think.
-So something is better than nothing I guess. And just dive in. I think that's I think that's. I like that
-approach.
+
 Well so another topic of the MOOC this week is sort of more about transparency and how
 journalists themselves can be more transparent in terms of the data and the algorithms that they
 might be using in their own work.
