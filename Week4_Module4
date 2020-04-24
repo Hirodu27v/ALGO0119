@@ -112,12 +112,8 @@ Slackについては詳しい説明は避けますが、こうしたツールは
 私もそのトピックには関連していると思います。読者のことを考えると、私たちのワークフローを説明する記事が必要だと思いますし、方法論の問題やデータセットのギャップなどについて透明性を確保しなければなりません。
 もちろん、可能な限り一次情報へのリンクを示すようにしています。リンクがなければ、ソースを共有する意思の表れとして、生のデータセットを公開することもあります。
 しかし、全てのものにアクセスできるようにするだけではなく、限界や意味合いを説明することも欠かせないと思います。
+すみません、雑音が入ってしまいました。そのほかにも、地図や表で読者にとって興味深い生データにアクセスできるようにすることも考えられますが、私たちのコードはこの点では訳にたたないと思います。
 
-But in my view it's it's really crucial not only to make everything accessible but also to explain
-the limitations and implications. Oh sorry for the sounds. And in another way. So I think besides
-that you could also think of maps or tables like just to it's to to make more raw data points
-accessible that are interesting for reader groups but I don't think that the yeah that our code for
-example is useful in this respect.
 So on the other hand side when when we don't think about readers only but also about our
 colleagues from different data from other data journalism teams or scientific researchers. We of
 course share much more. We we share our methodology and of course explain our workflows.
