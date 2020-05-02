@@ -1,54 +1,33 @@
 ALGO 119 - Module 3_3
+こんにちは、ニュース・アルゴリズムのMOOC第３週へようこそ。タマラ・チャーニーさんは（公共ラジオの）NPRでパーソナライゼーションとキュレーションのマネージング・ディレクターを務めています。
+今週はアルゴリズムを活用したキュレーションについてお話ししています。タマラさんは報道現場での経験があり、特にNPR Oneアプリでは、アルゴリズムによるレコメンデーション技術と入念な編集とを結びつけています。
+タマラさん、こんにちは。あなたをお迎えできて感激です。あなたの知識を共有するために時間を割いていただき、ありがとうございます。
 
-Hello everyone! Welcome to week three of the News Algorithms MOOC. We've got a great guest speaker
-with us this week, Tamar Charney is the managing director for personalization and curation at National
-Public Radio, better known as NPR perhaps.
-This week we're talking about algorithmic curation and Tomar has some experience working with that in
-a news environment in particular in the context of the NPR One app which ties together some algorithmic
-recommendation techniques with some very careful editorial thinking. So Tamar, hello and welcome.
-Thrilled to have you with us today. Thank you for taking the time to share your knowledge with this
-MOOC.
-My pleasure.
-So, maybe you could kind of kick things off a little bit for us by giving us an idea of exactly what it is you
-do in your role as director for personalization and curation. It strikes me as kind of a new role certainly in
-a new job title, one that I haven't come across before. What does that entail?
-Great. Well in some ways we made up the top title quite frankly. I think that from a very high level, I am
-not the journalist in the room when we're thinking about the algorithms and the technology that's needed
-to get a localized and personalized stream of content to our listeners.
-Mostly on the NPR One app, but this also extends into smart speakers and the NPR app and probably into
-some of our other digital platforms. So my charges to really think about how could we use algorithms
-which I think of is really the modern editorial tool, to connect people with the content that they need, and
-want, and appreciate.
-So my job is to really be that editorial person thinking about the editorial implication, thinking about the
-story arc and the breadth of our coverage, and having the conversations with the data scientists and asking
-the questions about "but what really would this do if we implemented this algorithm?" or "are there ways
-we could do this that might enable us to better connect people with the content they're going to value?"
-That's great. So, could you go a little bit further and sort of tell us more about how the algorithmic
-curation and personalization works in the NPR One app. Perhaps the students in the book haven't used it,
-but maybe you can kind of give us a little bit of background about how it works, what it does, and what
-kind of information it provides.
-Sure. So, NPR One and the real shorthand to understand it as much as I wish we had a better explanation
-of it is it's almost like Pandora for news. So it's a way of getting individual news stories that are localized
-and to some degree personalized based on your interests.
-So, when you go to the app or you encounter an NPR One experience you know in your car dashboard or
-on a television set you basically hit play and it starts a continuous stream of content and the algorithm is
-basically going through all of the content it has available and fitting various pieces of content into various
-almost buckets that we've set up based on various criteria that we the curation and personalization
-editorial team have setup.
-So it starts by playing you a national newscast and then it goes and finds your local newscast from your
-local NPR member station and then it's assembling a mix of news stories from NPR from your local
-member station podcasts from NPR podcasts from your local member station and even podcasts from
-third party podcast providers that the algorithm has learned that you like.
-So overall what we're trying to do with this is take the best of the decisions human beings can make about
-content that's really relevant and great storytelling and helps people understand both the news of the day
-and some of the breadth of the human experience that the serendipity in the driveway moments that NPR
-is kind of known for, and taking you know, the best of the decisions humans make about those factors and
-combining it with what algorithms do really well which is you know tracking behavior to some degree
-and knowing where you are localizing you and really trying to blend the two.
-So we think of NPR One as that secret source between human curation and algorithms.
-So, can you tell us a little bit more about the sort of the human editorial work that's involved in sort of
-keeping this algorithm humming along? What does that work look like and how does that work blend into
-what the algorithm is doing?
+こちらこそ。
+
+では、まずはパーソナライゼーションとキュレーションのディレクターとして、どのような仕事をされているのか、具体的に教えていただけないでしょうか。
+（学生が）今までに出会ったことのない役職だと思います。具体的にはどのような仕事なのでしょうか？
+
+率直に打ち上げますが、まず私たちはトップの役職を設けました。
+ローカライズかつパーソナライズされたコンテンツのストリームを視聴者に届けるのに必要な技術やアルゴリズムを考える担当です。
+NPR One appを中心に、スマートスピーカーやNPRアプリ、そしておそらく他のデジタルプラットフォームにも（担当する範囲は）拡大しています。
+つまり、私の担当は、アルゴリズムをどのように使うのか考えることです。アルゴリズムは現代の編集ツールと言えるでしょう。
+編集者として、一連のストーリーや取材の幅を考え、データサイエンティストと会話をしながら、「このアルゴリズムを実装したらどうなる」とか、「人々をより価値あるコンテンツに結びつけるための方法は」などの質問を投げかけることです。
+
+それは素晴らしいことです。ではもう少し詳しく、アルゴリズムによるキュレーションとパーソナライゼーションがNPR Oneアプリでどのように機能しているのかを教えてください。
+おそらくMOOCの学生は使ったことがないと思いますが、その仕組みや機能、提供される情報について、教えていただけないでしょうか。
+
+NPR Oneを端的に言えば、「ニュースのパンドラ」のようなもので、地域に特化した、ある程度パーソナライズされたニュースを得ることができます。
+アプリにアクセスしたり、車のダッシュボードやテレビでNPR Oneの再生ボタンを押すと、コンテンツの連続的なストリームが開始されます。
+アルゴリズムは、利用可能なすべてのコンテンツの中から、キュレーションとパーソナライゼーションの編集チームが設定した基準に基づき選定します。
+全国のニュースの後、地元のNPR加盟局からのニュースとポッドキャスト、さらにアルゴリズムがあなたの好みにあったサードパーティのプロバイダーからのポッドキャストを組み合わせて流します。
+私たちがやろうとしているのは、その日のニュースと、運転中のセレンディピティなど人間の経験の幅広さの双方についての理解を深めてもらうことです。
+人間が下しうる最善の判断と、アルゴリズムが得意とすることを組み合わせることで、視聴者の行動をある程度把握し、どこにローカライズするかを知ることができます。
+私たちは、NPR Oneを人間によるキュレーションとアルゴリズムの間にある秘密の情報源と考えています。
+
+このアルゴリズムを維持するための人間の編集作業について、もう少し詳しく教えてもらえますか？
+その仕事はどのようなもので、どのようにアルゴリズムに融合しているのでしょうか？
+
 Sure. So, a lot of what the humans are doing is really listening to every single audio news story and pretty
 much a ton of the podcast work that's out there and making some decisions about what role it plays for
 people, how long is it going to be relevant for, what feels super important and in the moment today or
