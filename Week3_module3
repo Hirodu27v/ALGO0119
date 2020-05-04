@@ -36,37 +36,28 @@ NPR Oneを端的に言えば、「ニュースのパンドラ」のようなも�
 NPR Oneは人々がどのように情報を取り込んでいると考えているのか、またアプリが体現するキュレーションアルゴリズムに、コンテンツの多様性やミックスといったものがどのように反映されるのか教えてください。
 
 はい、アルゴリズムの主要な仕事の一つは、ローカリゼーションだと思います。全国的なコンテンツのフィードだけではなく、あなたがいる地域コミュニティに向けて発信するコンテンツを取得するのです。
-あなたがフォローしたり、購読したりしているか否かに関わらず、
-And through that you know, the way it's doing that is learning what podcasts you like regardless of
-whether you actively follow or subscribe to it. So the humans will place great podcasts with a fairly large
-breadth into the flow of content and see how you respond to it, and if you respond well to it and use you
-clearly had a good positive experience with it, the algorithm is going to serve it to you again.
+あなたがフォローしたり、購読したりしているか否かに関わらず、あなたがどんなポッドキャストを好むかを学習します。
+人間が幅広いポッドキャストをコンテンツのストリームに配置して、もしあなたが好反応を示したポッドキャストがあったら、アルゴリズムは再びそれを提供しようとします。
+いい反応がなければ、提供をやめるでしょう。また、私たちはアルゴリズムを使って他の視点を提供することにも努めています。
+異なる政治的立場のポッドキャストを聞きたがらない人に対して、アルゴリズムが「この人は党派色の強いポッドキャストを聞いているから、チャンスを与えよう」と学習するよう促すのです。
+これはあくまで提案なので、受け入れる人もいれば拒む人もいます。しかしこれはアルゴリズムが提案すべきことであり、従業員がしなければいけないことでもあります。
+私たちは、その日のニュースをお届けするために、編集者が責任を持ってアルゴリズムを使うにはどうすればいいのかを考えているのです。
+そしてキュレーターは、あなたがフィルターバブルに包まれていても、何が重要なニュースなのか、そしてそれがどのように関心を持っていることに貢献するのかを判断します。
+あなたがカントリーミュージックが好きで、私はジャズが好みだったとして、私はカントリーを聴けなくても別に困らないし、あなたもジャズが聴けなくてもいいでしょう。
+本の場合も同じく、私が文学趣味で、あなたは犯罪小説を読みたければ、互いの本を読むことはないでしょう。アルゴリズムを活用することによって、きめ細かいパーソナライゼーションが可能となります。
+あなたは音楽インタビューを好まず、全く必要としないかもしれません。そういうところはかなり積極的にアルゴリズムを使います。
+アルゴリズムが何もしないコンテンツもありますが、全てはキュレーター次第です。
+トップで流す記事はキュレーターだけに決定権がありますが、それはスキップボタンがあるからです。
+シリアで起きていることや政府機関の閉鎖の話題を聞きたくなければ、スキップしても構いませんが、私たちは（これこそ）今日伝えるべきニュースだと思って流しています。
+NPR Oneはニュースアプリであって、私たちは重要なニュースを確実にお伝えしたいと思っています。
 
-If it was something that didn't really work out for you will probably stop feeding it to you. We also use
-the algorithm to offer other perspectives to use, so the algorithm can learn like "oh you know this person
-is listening to a whole lot of partisan podcasts, let's give them a chance," in case it was really inadvertent
-to hear a podcast from a different political point of view.
-That's something that's just offered. Some people choose to accept us on it, some people don't, but that's
-something the algorithm has asked to do, or employed to do, so it's really trying to figure out you know
-how do we use the algorithm in an editorially responsible way to get you the news of the day?
-And the curators are often determining what are those important news stories and then how can it be used
-to support certain interests that honestly if you filter bubble yourself on, that's OK, you know, if you like
-country music and I like jazz, I don't think there's any harm in me not getting your country music and
-you're not getting my jazz music.
-There's no reason we can't support that interest. Same with books, you know, if I like reading literary
-fiction and you're really into true crime, we're probably not going to read each other's books. That's a
-great use of an algorithm, to get really granular in personalization.
-Maybe you don't like music interviews at all, maybe you don't need to get them at all, and I think those
-are places where we use the algorithm to be pretty aggressive. There are other types of content where the
-algorithm doesn't do anything, it's all up to the curators.
-The lead stories of the day, that is solely determined by the curators because we think that's where your
-skip button is the appropriate tool. If you don't want to hear what's happening today in Syria or with the
-government shutdown you can hit skip, that's fine, but we're going to offer it to you anyway because we
-think it's the news of the day, and we are a news app, and we want to make sure you're getting the
-important news.
-So, what are the sorts of topics where you are sort of like directly addressing this idea of filter bubbles and
-trying to combat that?
-I mean, it's mostly in the podcast space, political podcast. I probably can't go into a lot more detail on that.
+では、フィルターバブルに対抗しようとしているトピックとはどんなものですか？
+
+おおむね政治的なポッドキャストですね、あまり詳しくは言えないんですが。
+
+分かりました。キュレーションアルゴリズムは何のために最適化しようとしているのでしょうか？アプリ全体でより多くの時間を使ってもらうためなのか、特定の番組をより長く聴いてもらうためなのか、それともより多様な番組を聴いてもらうためなのか。
+アルゴリズム的なキュレーションにおいて、トラッキングしている指標や最適化しようとしているものは何ですか？
+
 OK, OK! I wonder if you could maybe talk a little bit about, you know, what is the curation algorithm
 trying to optimize for? Is it trying to get people to spend more time with the app overall or just listen
 longer to certain pieces or listen to more a greater diversity of pieces? Like what are the metrics that
