@@ -56,38 +56,25 @@ NPR Oneはニュースアプリであって、私たちは重要なニュース�
 おおむね政治的なポッドキャストですね、あまり詳しくは言えないんですが。
 
 分かりました。キュレーションアルゴリズムは何のために最適化しようとしているのでしょうか？アプリ全体でより多くの時間を使ってもらうためなのか、特定の番組をより長く聴いてもらうためなのか、それともより多様な番組を聴いてもらうためなのか。
-アルゴリズム的なキュレーションにおいて、トラッキングしている指標や最適化しようとしているものは何ですか？
+アルゴリズムを使ったキュレーションにおいて、トラッキングしている指標や最適化しようとしているものは何ですか？
 
-OK, OK! I wonder if you could maybe talk a little bit about, you know, what is the curation algorithm
-trying to optimize for? Is it trying to get people to spend more time with the app overall or just listen
-longer to certain pieces or listen to more a greater diversity of pieces? Like what are the metrics that
-you're tracking and what are you trying to optimize in this algorithmic curation?
-ure. We've really been aggressive about engagement. I mean we're really trying to create a really sticky
-experience for a number of reasons. One, we want people to really like it and if you really like it you tend
-to stick around for a long time, and we know that higher levels of engagement translates into people
-becoming supporters of their local public radio station which is a big part of the funding model. So that's
-how we use it in service of some of our monetization goals.
-But I think from an editorial perspective the more people are staying with us I think as saying we're doing
-a good job both as curators and as the group that's employing the editorial algorithm in creating
-experience that is giving you the news you need and the fun and serendipity that makes you want to keep
-listening.
-So we felt that that's a pretty good metric to be driving at, and so far we think it's been pretty successful,
-so we haven't felt a need to really be using it to try to create a different result.
-So, you know, you've been building these systems at NPR for at least a couple of years now. I wonder if
-you have any advice for other news organizations or other people who might be thinking about creating
-their own algorithmic curation apps or widgets or newsletters or you know personalized home pages? all
-these kinds of algorithmic curation possibilities out there. Do you have sort of a broad advice for do's and
-don'ts, or you know places where you could go wrong things like that?
-Yeah I mean, I I think it becomes really fundamental to know really clearly who you are and what you do
-for people and to have data is the starting place for how you use an algorithm. You know what is the job
-you're doing for people not to get all Clay Christensen on you, but what are you trying to get this
-algorithm to do?
-Because they are the modern editorial tools and you're trying to use the algorithm to support what it is
-you're trying to do for people call it your mission, call it your purpose, but to really understand what
-you're trying to get it to accomplish beyond just increasing page views or increasing engagement.
-I think that's really easy to hit you know a Key Performance indicators metric. I think it's a lot harder to
-really deep in your bones know why you're doing it and really understand what your editorial guardrails
-are.
+私たちは積極的にエンゲージメントに取り組んできました。すなわち、私たちはいくつかの理由から、しっかりと根ざした体験を作り出そうとしています。一つ目は、人は本当に気に入ったポッドキャストには長くとどまる傾向があります。
+また、よりエンゲージメントのレベルを上げることで、人々が地元の公共ラジオ局のサポーターになることがわかっていますが、これは資金調達モデルの大きな部分を占めています。
+このようにして、私たちは（キュレーションアルゴリズムを）収益化目標の一部として利用しています。
+編集の観点からは、多くの人々が私たちのサービスに滞在していると言えます。つまり私たちはキュレーターとして、また編集アルゴリズムを採用しているグループとして、必要なニュースと、聞き続けたくなるような楽しさとセレンディピティを提供する良い仕事をしていると判断しています。
+今のところ、かなり成功を収めていると思っているので、別の結果を求めてアルゴリズムを使う必要性は感じていません。
+
+NPRでは少なくとも数年前からこれらのシステムを構築していますね。
+他の報道機関や、アルゴリズムによるキュレーションアプリやウィジェット、ニュースレターを自分で作ろうと考えている人や、パーソナライズされたホームページを知っている人に何かアドバイスはありますか?アルゴリズムによるキュレーションの可能性が開かれています。
+やるべきこととやってはいけないことについて、何か幅広いアドバイスはありますか?
+　
+自分が何者なのか、人々のために何をしているのかを明確に把握することが基本になります。
+そして、データを持つことが、アルゴリズムをどのように使うかの出発点です。全てがクレイトン・クリステンセンの言うようなものでなくとも、あなたは人々のために何をしているのですか？
+アルゴリズムを使って何をしようとしているのでしょう。これらは現代の編集ツールです。
+あなたはアルゴリズムの助けを受けて人々のために使命や目的を果たそうとしています。
+ページビューの増加やエンゲージメントの増加だけではなく、何を達成させようとしているのかを本当に理解する必要があります。
+KPIを追求するのは簡単ですが、なぜそのようなことをしているのかを深く理解し、編集上のガードレールとなるものが何なのかを知ることは、とても難しいことだと思います。
+
 And I think organizations not being clear on some of those fundamentals about who you are and what
 you're trying to accomplish is really how we end up in these situations that filter bubbles where we're just
 driving at the bottom line or a certain number of people instead of thinking really deeply and hard about
@@ -104,6 +91,7 @@ And I think if we're really clear about that we may be able to use them for good
 ... I don't want personalization, I want the news. Well if the personalization is helping you get the news in
 a more efficient and effective manner, and helping you better understand the things that are important to
 you, you might feel better about that or differently about them.
+
 So one of the sort of I guess more pragmatic elements to implementing these kinds of ideas (coming from
 an editorial background) is how do you work with a data scientist or someone who's doing the machine
 learning and actually building that technology? Do you have any thoughts for how to make that kind of
