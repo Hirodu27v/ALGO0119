@@ -74,28 +74,18 @@ NPRでは少なくとも数年前からこれらのシステムを構築して�
 あなたはアルゴリズムの助けを受けて人々のために使命や目的を果たそうとしています。
 ページビューの増加やエンゲージメントの増加だけではなく、何を達成させようとしているのかを本当に理解する必要があります。
 KPIを追求するのは簡単ですが、なぜそのようなことをしているのかを深く理解し、編集上のガードレールとなるものが何なのかを知ることは、とても難しいことだと思います。
+自分が何者で、何を達成しようとしているのかという基本的なことを明確にしない組織は、アルゴリズムが人々のエクスペリエンスを向上させたり、ジャーナリストや報道機関としての使命を促進したりするためにどうすべきか真剣に考えず、利益や人数だけを追求するフィルターバブルのような状況に陥ってしまいます。
+ある意味、私のジャーナリストとしての仕事は、会話の中でこんな厳しい質問を投げかけることです。「何を達成しようとしているの？」
+ジャーナリズムは民主主義のために存在していますが、アルゴリズムもそうであるべきだと思います。
+私たちは時々それを忘れてしまいます。私たちはいろいろなことを最適化できます。でもそれはなぜ？それが人々の助けになるのでしょうか？
+どのように政治システムや地域社会、通りや学校で起きていることを理解するのに役立てますか？
+私たちが（本質的な問いに対する答えを）明確にしているならば、アルゴリズムを良い方法で活用でき、人々を分断しなくてすむでしょう･･･私はパーソナライゼーションではなく、ニュースを求めているのです。
+パーソナライゼーションがより効果的かつ効率的にニュースを得る助けになり、あなたが重要なことをよりよく理解するのに役立つなら、あなたはそれをよしとするかもしれません。
 
-And I think organizations not being clear on some of those fundamentals about who you are and what
-you're trying to accomplish is really how we end up in these situations that filter bubbles where we're just
-driving at the bottom line or a certain number of people instead of thinking really deeply and hard about
-how we want the algorithm to improve people's experiences or further our mission as journalists and
-journalistic organizations.
-In some ways this is my job in the room as the journalist in these conversations is to really ask these
-tough questions about: what is it that we're trying to accomplish? You know journalism is there in service
-of our democracy, and I think the algorithms need to work in service of that as well.
-And I think we sometimes forget that piece of it in the midst of: oh my gosh you know we can optimize
-for this, that, and the other thing. Well, why? And how is that helping people? And how is that helping
-people understand our political system, and our communities, and what's happening you know down the
-street and in our schools?
-And I think if we're really clear about that we may be able to use them for good and people aren't tearing
-... I don't want personalization, I want the news. Well if the personalization is helping you get the news in
-a more efficient and effective manner, and helping you better understand the things that are important to
-you, you might feel better about that or differently about them.
+編集者出身の人からすると、このようなアイデアを実現するには、データサイエンティストや機械学習の技術を会得している人とどう連携するかという現実的な課題があります。
+このようなコラボレーションを実りあるものにするにはどうしたらいいか、何か考えはありますか？
 
-So one of the sort of I guess more pragmatic elements to implementing these kinds of ideas (coming from
-an editorial background) is how do you work with a data scientist or someone who's doing the machine
-learning and actually building that technology? Do you have any thoughts for how to make that kind of
-collaboration fruitful?
+
 Yeah that's a great question. I mean I think it's tricky because there's almost two opposing forces. On one
 hand we're down this road of data scientists and machine learning because it's really complicated, but
 from the editorial perspective we want this level of transparency, and we want to understand what it's
