@@ -107,60 +107,44 @@ KPIを追求するのは簡単ですが、なぜそのようなことをして�
 そうですね！来週は、ジャーナリストはシステムの透明性を高めるために、どのようにしてアルゴリズムに対する（説明）責任を果たせるのかという話をします。
 あなた方が開発・運用しているキュレーションアルゴリズムの透明性について、あなたやNPRはどのように考えていますか？
 
+私はたしか２年前にNPR.orgのサイトに投稿したことがあります。それは私たちがアルゴリズムで何をしようとしているのか、どのようにアルゴリズムを使っているのかを理解してもらうためでした。
+NPR Oneを使えば、狭い範囲のニュースだけではなく、その日のニュース全般と素敵な偶然を得ることができます。
+できる限りオープンな姿勢で、たとえ私たちの（アルゴリズムに対する）哲学を人々がどのように理解しているのかというところまでは踏み込まなくても、技術者やデータサイエンティスト任せにしているわけではにと安心してもらいたいと思っています。
+投稿では、ジャーナリストが積極的にシステムに配置されているものを見極め、どんな結果が出ているのかを評価していることにも言及しました。
+全てのキュレーターが複数のアカウントを持っています。NPR Oneを聴いて、その日の朝のニュースや他の人が聞いたことを元に、さまざまな人がどんな反応を返してくるのかを見守ります。
+人々のためにアルゴリズムが選択したものが良い結果をもたらしたことを確認するのです。
 
-Quite honestly it was probably two years ago that I wrote a post for the NPR.org site explaining what
-we're trying to do with the algorithm and how we use it so that people understood you know, if you're
-using NPR One, you are going to get the day's news and you are going to get serendipity and you're not
-going to just get a very narrow slice of the news.
-So I wanted to be really open about that and really pull back the curtain a bit so that even if we didn't go
-into the nitty gritty about exactly how people understood what our philosophy was toward using it and to
-reassure people that this hasn't just been left to the technologists and the data scientists no offense, but
-that there were journalists in the conversation actively looking at what is being placed into the system and
-probably also sort of mentioned this evaluating what's coming back out.
-All of the curators have multiple accounts that we use to listen to NPR One to see what various people
-might be getting back based on what other things they've heard and what's in the news that morning just
-to make sure that we feel good about what's coming back out from that algorithm for people.
-That's fascinating. I mean could you could you talk a little bit more about sort of I guess the monitoring
-work that your team needs to do? Like how does supervision of this system work?
-Yeah, I mean we have various reports that we can run that basically show us what pieces the algorithm
-would be pulling and then what some of the fallback or backup options would be based on a different
-ways a listener might be listening.
-I think I have maybe 12 e-mail accounts I used to listen and the members of my team also have multiple
-accounts. It's not to say we listen to all twelve of them or you know multiples in any given day, but we're
-often rotating between accounts just to see what else might be popping up because everybody listens to
-different things and the system knows what you heard yesterday or two hours ago, and you might get a
-different ordering of pieces and sometimes ordering of pieces can feel differently.
-When you're producing a radio show you think very hard about the sequencing. What you can't control
-when you're programming your radio show is when people tune in and out. It's almost the absolute inverse
-with NPR One.
-We know when people come in, we can't always control exactly what sequence they hear things in, orr
-what they did in their last listening session, this current listening session could be a little bit different. So
-in either instance you have some loss of control of the experience, it's just a different type of loss of
-control.
-That's really fascinating. So, what's next for NPR in terms of this whole area of personalization and
-algorithmic curation?
-Yeah, I think it's thinking about what other platforms it makes sense on. I think it's also how do we as
-journalists get more comfortable with using it as an editorial tool. I think it initially can feel a little scary
-to journalists because there is this loss of control and we're used to.. you know, stories are written in a
-very rigid format, radio shows are produced at a very rigid clock, interviews we do on the air have a story
-arc.
-There's been a lot of control and the use of an algorithm does require some relinquishing of control, and
-some trust that you've set up good rules, and you set up good templates, and you've put the right things
-into the hopper, and I think it's us as an industry just getting comfortable with that and figuring out what
-outcome we want from it, and making sure that what we're getting out [Video skips]
-Is there anything else that you think the MOOC students should know as they're kind of heading into
-building their own algorithmic curation, applications, and systems? Any final advice to them.
-I mean again, I think they've to be really clear about what you want to accomplish, and not just you know,
-the number of people you want doing X, Y or Z, but really why? Why are you using it? What are your
-journalistic goals with it?
-And always come back to that because I think that's an important conversation to be having with the data
-scientists.
-So really making the algorithm you know, do journalism.
-Yeah, exactly. That's a great way to put it. Yep, because you think really hard about what you want your
-front page to look like, or what you want your radio show to sound like, or your TV broadcast.
-What do you want the output of your algorithm to be on the platform that's driven by it, and to make sure
-that it is as an editorial tool doing and accomplishing what you want it to accomplish.
-Yeah. Well this has been fantastic. Thank you again for joining us today. It's been great to have you here
-and I look forward to listening to some NPR One later today.
-Great! Thank you Nick, my pleasure.
-All right. Thanks.
+それは魅力的ですね。さて、チームが行っている監視についてもう少し詳しく教えていただけますか？このシステムの監視はどのように機能しているのでしょうか？
+
+アルゴリズムがどのような部分を引っ張ってくるのか、また、リスナーの視聴方法に基づいてどのような縮退運用やバックアップオプションがあるのかを示す様々なレポートを実行することができます。
+私は12のメールアカウントを持っていて、チームのメンバーも複数のアカウントを持っています。
+12全てのアカウントで聴くわけではありませんし、いくつか聴くという日もあります。
+しかし、私たちはしばしばいろんなアカウントを行ったり来たりして何が出てくるかを確認しています。
+皆が違う（ポッドキャストの組み合わせ）を聴いています。
+システムは昨日聴いたことや2時間前に聴いたことを把握していますが、あなたは流れてくるポッドキャストや、その順番に違和感を感じることがあるかもしれません。
+あなたがラジオ番組をプロデュースするとき、番組の順序を決めるのに苦心することでしょう。
+ラジオ番組のプロデュースでコントロールできないのは、人々がいつ視聴を始め、いつやめるかということです。NPR Oneの場合はその逆ですね。
+私たちは人々がいつ視聴を始めるのか把握できますが、どの順番で聴くか、最後のリスニングセッションで何をしたかを常に正確に制御することはできません。
+今は少し変わったかもしれませんけどね。どちらの場合でも、ある種のユーザー体験をコントロールできないのに変わりはありません。
+
+実に興味深いお話です。NPRがパーソナライゼーションと アルゴリズムによるキュレーションで、次に挑むことは何ですか？
+
+おそらく、他のプラットフォームについても考えていることでしょう。ジャーナリストとしてどうやって編集ツールとして使うことに慣れていくかということですね。
+ジャーナリストたちは、最初は少しビビるかもしれませんね。記事は硬直したフォーマットに従って書かれ、ラジオ番組は厳しい時間制限があり、インタビューは構成が決まっているのですから。
+多くの決まり事がありますが、 アルゴリズムを活用するにはそれを放棄することが必要です。
+良いルールとテンプレートを設定し、正しいものをホッパーに入れたという信頼も不可欠です。
+私たちの業界はそれに慣れ、どんな結果を得たいのかを明確にし、結果を確認していくことが重要だと思います。
+
+MOOCの学生が自分たちのアルゴリズムのキュレーション、アプリケーション、システムを構築するために知っておくべきことは他にありますか？最後に彼らへアドバイスしてください。
+
+再度言いますが、何を達成したいのか明確にしなければなりません。X、Y、Zといった人数にとらわれず、なぜ（アルゴリズムを）使うのか、ジャーナリストとしての目標はどこにあるのかを追求してください。
+常にそれに立ち返ることが必要です。データサイエンティストとの話し合いではそれが核になります。
+アルゴリズムを作って、ジャーナリズムを実践するのです。
+あなたは一生懸命考えますよね、フロントページをどのように見せたいか、ラジオ番組をどのように聴かせたいか、テレビ放送をどのようにしたいか、とか。
+プラットフォーム上のアルゴリズムに何を期待するにせよ、それはあなたが達成したいことを手助けする編集ツールであることを忘れないでください。
+
+素晴らしいお話でした。今日はご参加ありがとうございました。今日のNPR Oneも楽しみです。
+
+ありがとうニック、どういたしまして。
+
+ありがとう。
